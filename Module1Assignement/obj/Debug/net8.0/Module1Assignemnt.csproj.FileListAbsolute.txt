@@ -1,0 +1,14 @@
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\bin\Debug\net8.0\Module1Assignemnt.exe
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\bin\Debug\net8.0\Module1Assignemnt.deps.json
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\bin\Debug\net8.0\Module1Assignemnt.runtimeconfig.json
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\bin\Debug\net8.0\Module1Assignemnt.dll
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\bin\Debug\net8.0\Module1Assignemnt.pdb
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\obj\Debug\net8.0\Module1Assignemnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\obj\Debug\net8.0\Module1Assignemnt.AssemblyInfoInputs.cache
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\obj\Debug\net8.0\Module1Assignemnt.AssemblyInfo.cs
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\obj\Debug\net8.0\Module1Assignemnt.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\obj\Debug\net8.0\Module1Assignemnt.dll
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\obj\Debug\net8.0\refint\Module1Assignemnt.dll
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\obj\Debug\net8.0\Module1Assignemnt.pdb
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\obj\Debug\net8.0\Module1Assignemnt.genruntimeconfig.cache
+C:\Users\Jonathan Thumstedter\Documents\WCTC\2024-2025 School Year\Fall Term 2\Mobile App\Module 1\Module 1 Assignment\Module1Assignemnt\Module1Assignemnt\obj\Debug\net8.0\ref\Module1Assignemnt.dll
